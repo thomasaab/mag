@@ -1,0 +1,1 @@
+/opt/bitnami/apps/magento/htdocs/lib/web/jquery/fileUploader/canvas-to-blob.js

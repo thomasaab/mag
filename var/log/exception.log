@@ -1,0 +1,7 @@
+[2019-04-02 15:33:40] main.CRITICAL: 5.7.8 Username and Password not accepted. Learn more at
+ 5.7.8  https://support.google.com/mail/?p=BadCredentials g13sm6939971qkm.89 - gsmtp
+ {"exception":"[object] (Magento\\Framework\\Exception\\MailException(code: 0): 5.7.8 Username and Password not accepted. Learn more at
+ 5.7.8  https://support.google.com/mail/?p=BadCredentials g13sm6939971qkm.89 - gsmtp
+ at /opt/bitnami/apps/magento/htdocs/app/code/MagePal/GmailSmtpApp/Model/TwoDotThree/Smtp.php:147, Zend\\Mail\\Protocol\\Exception\\RuntimeException(code: 0): 5.7.8 Username and Password not accepted. Learn more at
+ 5.7.8  https://support.google.com/mail/?p=BadCredentials g13sm6939971qkm.89 - gsmtp
+ at /opt/bitnami/apps/magento/htdocs/vendor/zendframework/zend-mail/src/Protocol/AbstractProtocol.php:348)"} []
